@@ -14,6 +14,7 @@
 		0DDC74B42CADEA8400293067 /* TaparaColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0DDC74B22CADEA8400293067 /* TaparaColeccionDeJuegos.xcdatamodeld */; };
 		0DDC74B62CADEA8F00293067 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0DDC74B52CADEA8F00293067 /* Assets.xcassets */; };
 		0DDC74B92CADEA8F00293067 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DDC74B72CADEA8F00293067 /* LaunchScreen.storyboard */; };
+		0DDC74C12CADF4F200293067 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DDC74C02CADF4F200293067 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		0DDC74B52CADEA8F00293067 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0DDC74B82CADEA8F00293067 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0DDC74BA2CADEA8F00293067 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0DDC74C02CADF4F200293067 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				0DDC74AB2CADEA8400293067 /* SceneDelegate.swift */,
 				0DDC74AD2CADEA8400293067 /* ViewController.swift */,
 				0DDC74AF2CADEA8400293067 /* Main.storyboard */,
+				0DDC74C02CADF4F200293067 /* JuegosViewController.swift */,
 				0DDC74B52CADEA8F00293067 /* Assets.xcassets */,
 				0DDC74B72CADEA8F00293067 /* LaunchScreen.storyboard */,
 				0DDC74BA2CADEA8F00293067 /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0DDC74C12CADF4F200293067 /* JuegosViewController.swift in Sources */,
 				0DDC74AE2CADEA8400293067 /* ViewController.swift in Sources */,
 				0DDC74AA2CADEA8400293067 /* AppDelegate.swift in Sources */,
 				0DDC74B42CADEA8400293067 /* TaparaColeccionDeJuegos.xcdatamodeld in Sources */,
